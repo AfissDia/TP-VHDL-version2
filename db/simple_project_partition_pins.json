@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "output_p[0]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[1]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[2]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[3]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[4]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[5]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p[6]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "output_p3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "input_p",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
